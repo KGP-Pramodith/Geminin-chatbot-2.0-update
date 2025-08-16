@@ -2,7 +2,7 @@
 
 A Python-based chatbot powered by Gemini API, featuring a Tkinter GUI and .env file integration for secure API management. This project provides a conversational AI experience with a clean and interactive interface.
 
---
+<br>
 
 Features
 	•	Tkinter GUI: User-friendly graphical interface for chatting.
@@ -10,7 +10,7 @@ Features
 	•	Interactive Conversations: Generates responses in real-time.
 	•	Exit Functionality: Easily close the chatbot using the GUI.
  
---
+<br>
 
 ## Installation
 1.	Clone the repository
