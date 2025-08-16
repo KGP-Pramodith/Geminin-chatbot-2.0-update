@@ -46,3 +46,6 @@ Run the chatbot GUI:
 	•	Gemini API – Conversational AI engine
 	•	dotenv – Environment variable management
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
