@@ -12,12 +12,12 @@ Features
  
 ⸻
 
-Installation
-	1.	Clone the repository
+## Installation
+1.	Clone the repository
          ``` git clone https://github.com/yourusername/chatbot-project.git
          cd chatbot-project ```
 
-  2.	Create and activate a virtual environment
+2.	Create and activate a virtual environment
         ```
         python -m venv env
         # Windows
@@ -25,17 +25,17 @@ Installation
         # macOS/Linux
         source env/bin/activate ```
 
-  3.	Install dependencies
+3.	Install dependencies
          ` pip install -r requirements.txt`
     	
-  5.	Set up your .env file
+5.	Set up your .env file
      Create a .env file in the root directory and add your Gemini API key:
     	  `GEMINI_API_KEY=your_api_key_here`
 
 ## Usage
 
 Run the chatbot GUI:
-    python main.py
+    `python main.py`
 
 	•	Enter your message in the input box.
 	•	The chatbot responds in real-time using Gemini API.
